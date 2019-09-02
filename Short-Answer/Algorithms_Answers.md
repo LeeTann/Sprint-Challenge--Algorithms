@@ -2,13 +2,13 @@
 
 ## Exercise I
 
-a)
+a) O(n) - Linear Time - it has one loop.
 
 
-b)
+b) 0(n^2) - Quadratic Time - it's has a loop nested in a loop
 
 
-c)
+c) 0(n) - Linear Time - it's a recursion that keeps calling itself and reducing each call by 1
 
 ## Exercise II
 
